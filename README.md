@@ -485,8 +485,8 @@ This is what building looks like. Not a straight line. A series of failures that
 
 ## Built By
 
-**Developer:** [Your Name]
-**AI Pair:** Claude (Anthropic) — architecture, code, debugging, and this README
+**Developer:** Shaik Asad Ahmed
+**AI Pair:** Claude (Anthropic) used for architecture, code, debugging, and this README
 
 > *"This was a weekend fun project but became a huge milestone Alhamdulillah"*
 > — The developer, at 1am after seeing the first ZIP download work
